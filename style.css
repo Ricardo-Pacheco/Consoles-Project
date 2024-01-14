@@ -119,13 +119,12 @@ img:hover {
     .name {
         color: black;
         margin-bottom: 5px;
-        font-size: 12px;
-        font-weight: 400;
+        font-size: 10px;
     }
     
     .price {
         color: white;
-        font-size: 13px;
+        font-size: 12px;
     }
 
 }
