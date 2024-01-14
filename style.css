@@ -45,6 +45,7 @@ button:active {
 .name {
     color: red;
     margin-bottom: 5px;
+    font-weight: bold;
 }
 
 .price {
@@ -100,7 +101,7 @@ img:hover {
     li {
         border: 3px solid black;
         border-radius: 5px;
-        padding: 5px;
+        padding: 10px;
     }
 
     ul {
@@ -119,6 +120,7 @@ img:hover {
         color: black;
         margin-bottom: 5px;
         font-size: 12px;
+        font-weight: 400;
     }
     
     .price {
